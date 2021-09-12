@@ -1,4 +1,4 @@
-# flutter_mentor_quiz_app_tut
+# flutter_based_quiz_app_on_DSA
 
 A Quiz App
 
